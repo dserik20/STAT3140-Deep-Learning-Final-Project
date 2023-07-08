@@ -1,0 +1,4 @@
+# STAT3140-Deep-Learning-Final-Project
+
+In my final project, I used neural networks to determine the topics of news from the AG's News Topic Classification Dataset. AG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine which has been running since July, 2004. The dataset is provided by the academic comunity for research purposes in data mining (clustering, classification, etc), information retrieval (ranking, search, etc), xml, data compression, data streaming, and any other non - commercial activity.
+I built 3 NN models: 1D Convolutional neutral network, LSTM and GRU neural networks. And compared their performance on test date set.
